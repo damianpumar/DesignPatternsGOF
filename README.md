@@ -9,6 +9,14 @@ The 23 Gang of Four (GoF) patterns are generally considered the foundation for a
 * [Prototype](Creational/Prototype.md)
 * [Singleton](Creational/Singleton.md)
 
+## Structural
+* [Adapter](Structural/Adapter.md)
+* [Bridge](Structural/Bridge.md)
+* [Composite](Structural/Composite.md)
+* [Decorator](Structural/Decorator.md)
+* [Facade](Structural/Facade.md)
+* [Flyweight](Structural/Flyweight.md)
+* [Proxy](Structural/Proxy.md)
 
 ## License
 [DoFactory](https://www.dofactory.com/net/design-patterns)
