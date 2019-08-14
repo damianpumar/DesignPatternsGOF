@@ -18,5 +18,18 @@ The 23 Gang of Four (GoF) patterns are generally considered the foundation for a
 * [Flyweight](Structural/Flyweight.md)
 * [Proxy](Structural/Proxy.md)
 
+## Behavioral
+* [Chain of Responsibility](Behavioral/ChainOfResponsibility.md)
+* [Command](Behavioral/Command.md)
+* [Interpreter](Behavioral/Interpreter.md)
+* [Iterator](Behavioral/Iterator.md)
+* [Mediator](Behavioral/Mediator.md)
+* [Memento](Behavioral/Memento.md)
+* [Observer](Behavioral/Observer.md)
+* [State](Behavioral/State.md)
+* [Strategy](Behavioral/Strategy.md)
+* [TemplateMethod](Behavioral/TemplateMethod.md)
+* [Visitor](Behavioral/Visitor.md)
+
 ## License
 [DoFactory](https://www.dofactory.com/net/design-patterns)
