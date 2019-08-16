@@ -28,7 +28,7 @@ The 23 Gang of Four (GoF) patterns are generally considered the foundation for a
 * [Observer](Behavioral/Observer.md)
 * [State](Behavioral/State.md)
 * [Strategy](Behavioral/Strategy.md)
-* [TemplateMethod](Behavioral/TemplateMethod.md)
+* [Template Method](Behavioral/TemplateMethod.md)
 * [Visitor](Behavioral/Visitor.md)
 
 ## License
