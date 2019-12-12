@@ -39,16 +39,16 @@ High
 
 This structural code demonstrates the Factory method offering great flexibility in creating different objects. The Abstract class may provide a default object, but each subclass can instantiate an extended version of the object.
 
-  using System;
+      using System;
 
-  namespace DoFactory.GangOfFour.Factory.Structural
-  {
-      /// <summary>
-      /// MainApp startup class for Structural 
-      /// Factory Method Design Pattern.
-      /// </summary>
-      class MainApp
+      namespace DoFactory.GangOfFour.Factory.Structural
       {
+          /// <summary>
+          /// MainApp startup class for Structural 
+          /// Factory Method Design Pattern.
+          /// </summary>
+          class MainApp
+          {
           /// <summary>
           /// Entry point into console application.
           /// </summary>
