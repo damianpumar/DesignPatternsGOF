@@ -7,7 +7,7 @@ Define an object that encapsulates how a set of objects interact. Mediator promo
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_low.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_low.jpg)
 
 Medium low
 

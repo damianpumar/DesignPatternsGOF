@@ -7,7 +7,7 @@ Define an interface for creating an object, but let subclasses decide which clas
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_high.gif)
+![](https://www.dofactory.com/images/patterns/use_high.jpg)
 
 High
 

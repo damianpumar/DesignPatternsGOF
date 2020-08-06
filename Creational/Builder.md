@@ -7,7 +7,7 @@ Separate the construction of a complex object from its representation so that th
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_low.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_low.jpg)
 
 Medium low
 

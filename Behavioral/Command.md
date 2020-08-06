@@ -7,7 +7,7 @@ Encapsulate a request as an object, thereby letting you parameterize clients wit
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_high.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_high.jpg)
 
 Medium high
 

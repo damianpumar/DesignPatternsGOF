@@ -7,7 +7,7 @@ Provide an interface for creating families of related or dependent objects witho
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_high.gif)
+![](https://www.dofactory.com/images/patterns/use_high.jpg)
 
 High
 

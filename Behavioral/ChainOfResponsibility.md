@@ -7,7 +7,7 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_low.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_low.jpg)
 
 Medium low
 

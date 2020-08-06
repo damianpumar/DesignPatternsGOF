@@ -7,7 +7,7 @@ Decouple an abstraction from its implementation so that the two can vary indepen
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium.gif)
+![](https://www.dofactory.com/images/patterns/use_medium.jpg)
 
 Medium
 

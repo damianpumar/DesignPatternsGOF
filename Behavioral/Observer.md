@@ -7,7 +7,7 @@ Define a one-to-many dependency between objects so that when one object changes 
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_high.gif)
+![](https://www.dofactory.com/images/patterns/use_high.jpg)
 
 High
 

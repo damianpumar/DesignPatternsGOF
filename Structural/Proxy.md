@@ -7,7 +7,7 @@ Provide a surrogate or placeholder for another object to control access to it.
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_high.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_high.jpg)
 
 Medium high
 

@@ -7,7 +7,7 @@ Define the skeleton of an algorithm in an operation, deferring some steps to sub
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium.gif)
+![](https://www.dofactory.com/images/patterns/use_medium.jpg)
 
 Medium
 

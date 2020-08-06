@@ -7,7 +7,7 @@ Define a family of algorithms, encapsulate each one, and make them interchangeab
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium_high.gif)
+![](https://www.dofactory.com/images/patterns/use_medium_high.jpg)
 
 Medium high
 

@@ -7,7 +7,7 @@ Specify the kind of objects to create using a prototypical instance, and create 
 
 Frequency of use:
 
-![](https://www.dofactory.com/images/use_medium.gif)
+![](https://www.dofactory.com/images/patterns/use_medium.jpg)
 
 Medium
 
